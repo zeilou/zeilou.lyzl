@@ -1,6 +1,7 @@
 ﻿
 
-<h1 align="center"> 其他页</h1><p align="center">< a href=" " target="_blank" rel="noopener noreferrer">< img width="100" src="https://zeilou.github.io/jz.jpg" alt="logo"></ a></p >
+<h1 align="center"> 其他页</h1>
+</p >
 
 ## 网盘资源搜索地址
 ## [http://ijji.top/PyMXld6Ud](http://ijji.top/PyMXld6Ud)
